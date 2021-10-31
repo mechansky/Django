@@ -695,7 +695,7 @@ html, body {
 }
 .basket {
 	display: block;
-	width: 180px;
+	width: 23px;
 	height: 23px;	
 	background-image: url(/static/img/basket.png);
 	position: absolute;
@@ -704,10 +704,6 @@ html, body {
 	left: 1185px;
     text-decoration: none;
     color: #555;
-    padding-left: 27px;
-    font-size: 12px;
-    background-repeat: no-repeat;
-    font_weight: bold;
 }
 
 .basket span {
